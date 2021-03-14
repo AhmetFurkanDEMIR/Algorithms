@@ -6,8 +6,8 @@
 
 ### Topics
 
-* [ ] [Graph](/Graph/)
+* [x] [Graph](/Graph/)
     
-  - [ ] [BFS (Breadth First Search)](Graph/BFS)
+  - [x] [BFS (Breadth First Search)](Graph/BFS)
   
   - [ ] DFS (Depth First Search)
