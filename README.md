@@ -8,6 +8,6 @@
 
 * [x] [Graph](/Graph/)
     
-  - [x] [BFS (Breadth First Search)](Graph/BFS)
+  - [x] [BFS (Breadth First Search)](/Graph/BFS/)
   
-  - [ ] DFS (Depth First Search)
+  - [x] [DFS (Depth First Search)](/Graph/DFS/)
