@@ -3,3 +3,9 @@
 # Algorithms
 
 *-* My code repository where I share my necmettin erbakan university computer engineering 2nd year algorithms course homework, projects and exams.
+
+* [ ] Graph
+    
+  - [ ] BFS (Breadth First Search)
+  
+  - [ ] DFS (Depth First Search)
