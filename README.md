@@ -2,7 +2,7 @@
 
 # Algorithms
 
-*-* My code repository where I share my necmettin erbakan university computer engineering 2nd year algorithms course homework, projects and exams.
+*-* My code repository where I share my Necmettin Erbakan University Computer Engineering 2nd year algorithms course homework, projects and exams.
 
 ### Topics
 
