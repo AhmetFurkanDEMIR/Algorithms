@@ -3,7 +3,6 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-using namespace std;
 
 // toplam vertex sayisi
 #define vertex 9
