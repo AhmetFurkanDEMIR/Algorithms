@@ -13,3 +13,5 @@
   - [x] [DFS (Depth First Search)](/Graph/DFS/)
   
   - [x] [Bellman Ford](/Graph/BellmanFord/)
+  
+  - [x] [Kruksal's Minimum Spanning Tree](/Graph/KruskalMST/)
