@@ -15,3 +15,5 @@
   - [x] [Bellman Ford](/Graph/BellmanFord/)
   
   - [x] [Kruksal's Minimum Spanning Tree](/Graph/KruskalMST/)
+  
+  - [x] [Prim's Minimum Spanning Tree](/Graph/PrimsMST/)
