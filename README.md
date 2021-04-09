@@ -19,7 +19,7 @@
   - [x] [Prim's Minimum Spanning Tree](/Graph/PrimsMST/)
 
 
-* [x] [Sorting Algorithms](/SortingAlgorithms/)
+* [ ] [Sorting Algorithms](/SortingAlgorithms/)
 
   - [x] [Bubble Sort](/SortingAlgorithms/BubbleSort/)
   
