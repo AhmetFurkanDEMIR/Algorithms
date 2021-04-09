@@ -17,3 +17,16 @@
   - [x] [Kruksal's Minimum Spanning Tree](/Graph/KruskalMST/)
   
   - [x] [Prim's Minimum Spanning Tree](/Graph/PrimsMST/)
+
+
+* [x] [Sorting Algorithms](/SortingAlgorithms/)
+
+  - [x] [Bubble Sort](/SortingAlgorithms/BubbleSort/)
+  
+  - [x] [Insertion Sort](/SortingAlgorithms/InsertionSort/)
+
+  - [X] [Selection Sort](/SortingAlgorithms/SelectionSort/)
+
+  - [X] [Shell Sort](/SortingAlgorithms/ShellSort/)
+
+
