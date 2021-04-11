@@ -28,5 +28,9 @@
   - [X] [Selection Sort](/SortingAlgorithms/SelectionSort/)
 
   - [X] [Shell Sort](/SortingAlgorithms/ShellSort/)
+  
+  - [X] [Merge Sort](/SortingAlgorithms/MergeSort/)
+  
+  - [X] [Quick Sort](/SortingAlgorithms/QuickSort/)
 
 
