@@ -19,7 +19,7 @@
   - [x] [Prim's Minimum Spanning Tree](/Graph/PrimsMST/)
 
 
-* [ ] [Sorting Algorithms](/SortingAlgorithms/)
+* [x] [Sorting Algorithms](/SortingAlgorithms/)
 
   - [x] [Bubble Sort](/SortingAlgorithms/BubbleSort/)
   
@@ -32,5 +32,11 @@
   - [X] [Merge Sort](/SortingAlgorithms/MergeSort/)
   
   - [X] [Quick Sort](/SortingAlgorithms/QuickSort/)
+  
+  - [x] [Counting Sort](/SortingAlgorithms/CountingSort/)
+  
+  - [x] [Radix Sort](/SortingAlgorithms/RadixSort/)
+  
+  - [x] [Heap Sort](/SortingAlgorithms/HeapSort/)
 
 
